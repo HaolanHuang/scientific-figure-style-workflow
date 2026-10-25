@@ -1,0 +1,5 @@
+interface:
+  display_name: "Scientific Figure Style Workflow"
+  short_description: "Create styled scientific diagrams and editable Draw.io figures"
+  default_prompt: "Use $scientific-figure-style-workflow to turn a reference paper figure into an original scientific overview and then rebuild it in editable Draw.io."
+  brand_color: "#2563EB"
